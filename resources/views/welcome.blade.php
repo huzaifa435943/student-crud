@@ -8,5 +8,6 @@
 <body>
     <p>Welcome page</p>
     <p>ene remove</p>
+    <p>change page 12.12.2025 5 php_uname </p>
 </body>
 </html>
